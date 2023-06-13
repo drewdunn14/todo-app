@@ -1,4 +1,4 @@
-package com.tnd.client;
+package com.tnd;
 
 import com.tnd.adapter.ClientAdapter;
 import com.tnd.adapter.DataAccess;
