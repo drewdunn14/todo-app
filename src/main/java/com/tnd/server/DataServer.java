@@ -45,7 +45,7 @@ public class DataServer
                 Thread t = new ClientHandler(s, dis, dos);
 
                 // Invoking the start() method
-                //t.start();
+                t.start();
 
             }
             catch (Exception e){

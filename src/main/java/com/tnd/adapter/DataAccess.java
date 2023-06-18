@@ -4,5 +4,7 @@ public interface DataAccess {
 
     void connect();
 
+    boolean verifyUser();
+
 
 }
